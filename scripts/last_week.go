@@ -16,12 +16,12 @@ import (
 
 	# 📆 01.01.1970
 	* 💻 Paired with @someone
-		* Did some tech stuff
-		* ⏳🎽 Start doing some thing [← skipped retro entry]
-		* 💫 Made progress on tech stuff
+	  * Did some tech stuff
+	  * ⏳🎽 Start doing some thing [← skipped retro entry]
+	  * 💫 Made progress on tech stuff
 
 	* 💬 Some feedback from @someone [← skipped feedback entry]
-		* 🔄 Do some thing more regularly [← skipped sub entry of feedback entry]
+	  * 🔄 Do some thing more regularly [← skipped sub entry of feedback entry]
 */
 func main() {
 	const NumberOfNotesToDisplay = 5
