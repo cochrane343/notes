@@ -14,7 +14,7 @@ Example use and command alias:
 ```
 go run new_day.go
 
-alias newday='cd ~/some/path/notes/scripts/ && go run new_day.go'
+alias newday='(cd ~/some/path/notes/scripts/ && go run new_day.go)'
 ```
 
 The [last week script](https://github.com/cochrane343/notes/blob/master/scripts/last_week.go) prints a report generated from the most recent notes while skipping some entry types. This script can be used before starting development work to get oneself back into context and to refresh one's memory about loose ends from the last days.
@@ -23,5 +23,5 @@ Example use and command alias:
 ```
 go run last_week.go
 
-alias lastweek='cd ~/some/path/notes/scripts/ && go run last_week.go'
+alias lastweek='(cd ~/some/path/notes/scripts/ && go run last_week.go)'
 ```
